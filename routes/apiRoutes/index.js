@@ -1,3 +1,4 @@
+// https://expressjs.com/en/guide/routing.html I used this site to learn more on routing
 const router = require('express').Router()
 const path = require("path")
 const fs = require('fs');
